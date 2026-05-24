@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# CLion / JetBrains
+.idea/
+
+# CMake build folders
+cmake-build-*/
+build/
+
+# Generated docs
+html/
+
+# Compiled binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
